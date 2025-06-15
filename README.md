@@ -1,7 +1,7 @@
 # Lab 2 – Web App Threat Detection with Azure Monitor and KQL
 
 **Student Name**: Maryam Khalaf  
-
+**Student Number**: 041188885
 
 ---
 
@@ -54,4 +54,16 @@ This query helps detect brute-force login activity by checking how often failed 
 
 ## 🎥 YouTube Demo
 
-** 
+**
+
+---
+
+## 📂 Included Files
+
+- `app.py` — Main Flask application with `/login` route
+- `requirements.txt` — Python dependencies
+- `test-app.http` — REST Client test file for triggering login requests
+- `README.md` — Lab report (this file)
+
+---
+
