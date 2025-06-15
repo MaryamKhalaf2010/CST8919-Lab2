@@ -1,7 +1,7 @@
 # Lab 2 – Web App Threat Detection with Azure Monitor and KQL
 
 **Student Name**: Maryam Khalaf  
-**Student Number**: 041188885
+
 
 ---
 
